@@ -1,0 +1,7 @@
+# -*- coding: utf-8 -*-
+
+API_TOKEN = 'YOUR_BOT_TOKEN'
+
+PLUGINS = [
+  'plugins',
+]
